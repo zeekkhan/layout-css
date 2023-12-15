@@ -1,0 +1,207 @@
+/* STATIC POSITION */
+
+/* body {
+    width: 750px;
+    font-family: Arial, Verdana, sans-serif;
+    color: #665544;}
+    h1 {
+    background-color: #efefef;
+    padding: 10px;}
+    p {
+    width: 450px;} */
+
+
+    /* RELATIVE POSITION */
+
+    /* p{
+        position: relative;
+         top: 10px;
+         left: 100px;
+    } */
+
+
+     /* position absolute */
+
+     /* h1{
+        position: absolute;
+        left: 500px;
+        width: 250px;
+        top: 0px;
+     }
+
+
+     p{
+        width: 450px;
+     } */
+
+
+
+     /* POSITION FIXED */
+
+     /* h1 {
+        position: fixed;
+        top: 0px;
+        left: 50px;
+        padding: 10px;
+        margin: 0px;
+        width: 100%;
+        background-color:green}
+
+        P{
+            position: relative;
+            top: 70px;
+        } */
+
+
+
+        /* Z-INDEX */
+
+        /* h1 {
+            position: fixed;
+            top: 0px;
+            left: 0px;
+            margin: 0px;
+            padding: 10px;
+            width: 100%;
+            background-color: #efefef;
+            z-index: 10;}
+            p {
+            position: relative;
+            top: 70px;
+            left: 70px;
+            z-index: 9;
+        } */
+
+
+        /* FLOTING ELEMENTS */
+        
+        /* blockquote {
+            float: right;
+            width: 275px;
+            font-size: 130%;
+            font-style: italic;
+            font-family: Georgia, Times, serif;
+            margin: 0px 0px 10px 10px;
+            padding: 10px;
+            border-top: 1px solid #665544;
+            border-bottom: 1px solid #665544;} */
+
+
+            /* FLOT THE ELEMENT SIDE BY SIDE */
+
+
+            /* body {
+                width: 900px;
+                font-family: Arial, Verdana, sans-serif;
+                color: #665544;}
+
+
+
+             p {
+                width: 230px;
+                float: left;
+                margin: 5px;
+                padding: 5px;
+                background-color: #efefef;} */
+
+
+                /* flots */
+
+            /* #div1{
+                float: right;
+                width: 300px;
+                height: 300px;
+            }
+
+            #div2{
+                float: left;
+                width:30px;
+                height: 30px;
+            }
+
+
+            img{
+                height: 300px;
+                width: 300px;
+            }
+
+
+            p,h1{
+                clear: both;
+            } */
+
+
+
+    /* FIXED WIDTH LAYOUT */
+    /* body {
+        width: 960px;
+        margin: 0 auto;}
+        #content {
+        overflow: auto;
+        height: 100%;}
+        #nav, #feature, #footer {
+        background-color: #efefef;
+        padding: 10px;
+        margin: 10px;}
+        .column1, .column2, .column3 {
+        background-color: #efefef;
+        width: 300px;
+        float: left;
+        margin: 10px;}
+        li {
+        display: inline;
+        padding: 5px;} */
+
+
+        /* LIQUID LAY OUT */
+
+        /* body {
+            width: 90%;
+            margin: 0 auto;}
+            #content {overflow: auto;}
+            #nav, #feature, #footer {
+            margin: 1%;}
+            .column1, .column2, .column3 {
+            width: 31.3%;
+            float: left;
+            margin: 1%;}
+            .column3 {margin-right: 0%;}
+            li {
+            display: inline;
+            padding: 0.5em;}
+            #nav, #footer {
+            background-color: #efefef;
+            padding: 0.5em 0;}
+            #feature, .article {
+            height: 10em;
+            margin-bottom: 1em;
+            background-color: #efefef;} */
+
+
+            /* 960 GS */
+
+
+            /* * {
+                font-family: Arial, Verdana, sans-serif;
+                color: #665544;
+                text-align: center;}
+                #nav, #feature, .article, #footer {
+                background-color: #efefef;
+                margin-top: 20px;
+                padding: 10px 0px 5px 0px;}
+                #feature, .article {
+                height: 100px;}
+                li {
+                display: inline;
+                padding: 5px;} */
+
+
+                /* MULTIPAL STYLE SHEETS */
+                /* #h1{
+                    color: red;
+                }
+                @import url('./wali.css');
+
+                #h2{
+                    color: blue;
+                } */
